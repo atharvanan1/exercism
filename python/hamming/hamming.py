@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def distance(strand_a, strand_b):
     count = 0
     if (len(strand_a) == len(strand_b)):

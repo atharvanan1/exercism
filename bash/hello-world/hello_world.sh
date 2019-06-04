@@ -15,7 +15,8 @@ main() {
   # A string variable containing only the FIRST argument passed to the script,
   # you can use input="$@" to get a string with ALL arguments
   input=$1
-  return "Hello, World!"
+
+  # Add your code here
 }
 
 # Calls the main function passing all the arguments to it via '$@'
